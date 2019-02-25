@@ -1,0 +1,4 @@
+baseURL = "https://kodebot.com/"
+languageCode = "en-gb"
+title = "kodebot"
+theme = "mediumish-gohugo-theme"
